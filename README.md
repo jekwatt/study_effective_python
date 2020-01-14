@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jekwatt/effective_python/master)
+
 # effective_python
 A series of tutorial materials for PyLadies Houston meetup inspired by book `Effective Python` by Brett Slatkin.
 
