@@ -1,7 +1,7 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jekwatt/effective_python/master)
 
 # effective_python
-A series of tutorial materials for PyLadies Houston meetup inspired by book `Effective Python` by Brett Slatkin.
+Study materials to write more pythonic code inspired by book `Effective Python, 59 Specific Ways to Write Better Python` by Brett Slatkin.
 
 According to `What This Book Covers`, each chapter in this book contains a broad but related set of items.
 Feel free to jump between items and follow your interest.
