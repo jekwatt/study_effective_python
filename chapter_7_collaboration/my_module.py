@@ -2,12 +2,6 @@
 
 
 def determine_weight(volume, density):
-    if density <= 0:
-        raise ValueError("Density must be positive")
-    # ...
-
-
-def determine_weight(volume, density):
     if density < 0:
         raise NegativeDensityError
 
