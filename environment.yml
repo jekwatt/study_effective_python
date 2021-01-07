@@ -1,0 +1,19 @@
+name: effective_python
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - conda
+  - black
+  - ipywidgets
+  - jupyterlab
+  - jupytext
+  - nbconvert
+  - nbstripout
+  - nodejs=14
+  - numpy
+  - pandas
+  - pip
+  - pytest
+  - python=3.8
